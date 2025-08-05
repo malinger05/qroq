@@ -1,0 +1,11 @@
+# Speech Pipeline Dependencies
+websockets
+sounddevice
+python-dotenv
+groq
+
+# Optional: for better audio playback
+pygame
+
+# Additional dependencies for conversation pipeline
+aiohttp 
